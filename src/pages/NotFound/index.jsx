@@ -1,4 +1,3 @@
-import { GrCircleAlert } from 'react-icons/gr'
 import { NotFoundWrapper } from './index.styles'
 
 const NotFound = () => {
